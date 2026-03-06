@@ -4,13 +4,15 @@
   "description": "Scraped Discord login page - Static site for Railway deployment",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "dev": "node server.js"
   },
   "engines": {
-    "node": ">=18.x"
+    "node": ">=18.x",
+    "npm": ">=9.x"
   },
   "keywords": ["discord", "static-site", "railway"],
-  "author": "",
+  "author": "NexusDevelopments",
   "license": "MIT",
   "dependencies": {
     "express": "^4.18.2"
