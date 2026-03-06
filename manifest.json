@@ -1,0 +1,38 @@
+{
+    "source_url": "https://discord.com/login",
+    "saved_at": "2026-03-05T23:25:06+00:00",
+    "output_dir": "scraped_sites\\discord.com_20260305_232503",
+    "offline_mode": true,
+    "files": {
+        "html": "scraped_sites\\discord.com_20260305_232503\\index.html",
+        "css": [
+            {
+                "url": "https://discord.com/assets/web.b666779c19db9701.css",
+                "path": "discord.com_20260305_232503\\css\\web.b666779c19db9701.css",
+                "filename": "web.b666779c19db9701.css"
+            }
+        ],
+        "javascript": [
+            {
+                "url": "https://discord.com/assets/libdiscore-wasm-fetch.e40ac537379d807c.js",
+                "path": "discord.com_20260305_232503\\js\\libdiscore-wasm-fetch.e40ac537379d807c.js",
+                "filename": "libdiscore-wasm-fetch.e40ac537379d807c.js"
+            },
+            {
+                "url": "https://discord.com/assets/fast-connect.cef198f216d830ec.js",
+                "path": "discord.com_20260305_232503\\js\\fast-connect.cef198f216d830ec.js",
+                "filename": "fast-connect.cef198f216d830ec.js"
+            },
+            {
+                "url": "https://discord.com/assets/sentry.d5880698d5f04aaa.js",
+                "path": "discord.com_20260305_232503\\js\\sentry.d5880698d5f04aaa.js",
+                "filename": "sentry.d5880698d5f04aaa.js"
+            },
+            {
+                "url": "https://discord.com/assets/web.718ac718759ffe65.js",
+                "path": "discord.com_20260305_232503\\js\\web.718ac718759ffe65.js",
+                "filename": "web.718ac718759ffe65.js"
+            }
+        ]
+    }
+}
